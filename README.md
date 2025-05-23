@@ -13,7 +13,7 @@ ___
 ## Schulprojekte
 
 ### Tetris Defense
-Eine Kombination aus Tetris und dem Tower Defense Genre. Geschrieben in RustLang und der Bevy Gameengine als zwei Wochen Projekt an meiner Schule
+[Tetris Defense](https://github.com/ggroby/tetris_defense) ist eine Kombination aus Tetris und dem Tower Defense Genre. Geschrieben in RustLang und der Bevy Gameengine als zwei Wochen Projekt an meiner Schule
 mit [Kay Gerz](https://github.com/Sunkitty1). Die Tetrominos sind physikbasiert und jeder Tetrominotyp hat eine eigene Turret Art die man auf ihnen
 platzieren kann, z.B. der 'L' Block schießt viele schwache Kugeln und der 'O' Block schießt Kanonenkugeln.
 
